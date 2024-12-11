@@ -1,6 +1,6 @@
 import { Component, AfterViewInit, ElementRef } from '@angular/core';
-declare var $: any;
 import * as Hammer from 'hammerjs';
+declare var $: any;
 
 @Component({
   selector: 'app-pdf-viewer',
